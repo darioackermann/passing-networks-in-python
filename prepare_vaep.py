@@ -9,8 +9,8 @@ Code borrowed and adapted from https://github.com/ML-KULeuven/socceraction
 """
 
 
-import socceraction.classification.features as fs
-import socceraction.classification.labels as lab
+import socceraction.vaep.features as fs
+import socceraction.vaep.labels as lab
 import socceraction.spadl.statsbomb as statsbomb
 import socceraction.spadl as spadl
 
